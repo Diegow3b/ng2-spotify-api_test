@@ -36,6 +36,7 @@ $ npm install
 
 ```sh
 $ npm start
+```
 
 ## Further help
 
