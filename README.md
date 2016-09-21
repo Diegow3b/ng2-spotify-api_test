@@ -31,10 +31,10 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 Install the dependencies and devDependencies and start the server.
 Must have node at least version 4 (nodejs.org to download)
 ```sh
-git clone https://github.com/Diegow3b/ng2-spotify-api_test.git
+$ git clone https://github.com/Diegow3b/ng2-spotify-api_test.git
 ```
 ```sh
-cd ng2-spotify-api_test
+$ cd ng2-spotify-api_test
 ```
 ```sh
 $ npm install
