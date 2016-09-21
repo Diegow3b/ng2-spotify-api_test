@@ -44,6 +44,8 @@ $ npm install
 $ npm start
 ```
 
+This will server at https://localhost:4200/
+
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
